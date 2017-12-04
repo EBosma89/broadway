@@ -33,8 +33,19 @@ a:visited,
 a:active {
   color:white;
   font-size: 18px;
+  font-weight: bold;
 }
 
 #designedInNewYork {
   color:white;
+}
+
+.bottomNavigation {
+  background-color:dimgray;
+  text-align:left;
+}
+
+#copyright {
+  color:white;
+  font-size:11px;
 }
